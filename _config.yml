@@ -25,3 +25,4 @@ github_username:  nffish
 # Build settings
 markdown: kramdown
 theme: minima
+version：0.1 
